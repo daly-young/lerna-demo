@@ -1,16 +1,15 @@
 {
-  "name": "module-1",
+  "name": "module-2",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "lodash": "^4.17.4"
-  },
-  "gitHead": "c15a7ce44ad99e823c592623b874100a040633ee"
+    "vue": "^2.2.6",
+    "vuex": "^2.5.0"
+  }
 }
